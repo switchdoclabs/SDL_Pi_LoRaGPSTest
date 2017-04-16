@@ -11,6 +11,9 @@ Note:  This is not intended to be a full tutorial for building this unit.   It p
 
 Build Notes:
 
+sudo pip install geopy
+
+
 Getting the Adafruit Ultimate GPS to work on a Raspberry Pi 3 is problematic.  We finally figured it out by using this tutorial:
 
 http://wiki.dragino.com/index.php?title=Getting_GPS_to_work_on_Raspberry_Pi_3_Model_B
